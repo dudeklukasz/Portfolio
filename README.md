@@ -62,7 +62,7 @@ My goal is to expand my testing knowledge, enhance my technical skills, and secu
 
 <br></br>
 <p align="center">
-  <img src="https://github.com/dudekluk/Portfolio/blob/main/img/malowany-szablon-etykiety-z-podziekowaniem.png" alt="Image" width="50%" height="50%">
+  <img src="https://github.com/dudeklukasz/Portfolio/blob/main/img/malowany-szablon-etykiety-z-podziekowaniem.png" alt="Image" width="50%" height="50%">
 </p>
 
 ###### <p align="center"><a href="https://pl.freepik.com/darmowe-wektory/malowany-szablon-etykiety-z-podziekowaniem_10330820.htm#fromView=search&page=1&position=23&uuid=79c21d8b-1b3b-4f28-aec1-30b625c1a964" target="_blank">Image by Freepik</a></p> 
