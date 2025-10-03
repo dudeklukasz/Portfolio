@@ -21,8 +21,8 @@
     * [16. Write a query to find list of patients first_name, last name, and allergies where allergies are not null and are from the city of 'Hamilton'](#easy-question-16)
 
 
-* <a href="https://github.com/dudekluk/Portfolio/blob/main/doc/SQL%20Practice%20Medium.md" target="_blank"><b>Move to Medium tasks</b></a>
-* <a href="https://github.com/dudekluk/Portfolio/blob/main/doc/SQL%20Practice%20Hard.md" target="_blank"><b>Move to Hard tasks</b></a>
+* <a href="https://github.com/dudeklukasz/Portfolio/blob/main/doc/SQL%20Practice%20Medium.md" target="_blank"><b>Move to Medium tasks</b></a>
+* <a href="https://github.com/dudeklukasz/Portfolio/blob/main/doc/SQL%20Practice%20Hard.md" target="_blank"><b>Move to Hard tasks</b></a>
 
 ## Easy Questions
 
