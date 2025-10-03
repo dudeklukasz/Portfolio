@@ -14,8 +14,32 @@ I worked on various projects, primarily focusing on web applications such as e-c
 
 
 My goal is to expand my testing knowledge, enhance my technical skills, and secure my first job in this dynamic field. Currently learning to write automated tests in **Playwright** using **TypeScript**. I am eager to expand my skills into automation testing to contribute more effectively to software quality assurance.
+<br></br>
 
 
+<h2 id="projects">🖥 Projects</h2>
+
+### 🔹 SQL Practice (Easy–Hard Tasks)
+
+**Overview:**  
+As part of strengthening my backend testing skills, I completed a series of SQL tasks on SQL Practice, ranging from beginner to advanced difficulty. These exercises allowed me to work hands-on with real-world scenarios such as filtering large datasets, combining information from multiple tables, and writing queries to validate date.
+
+**Key Activities:**  
+- Applied filtering with multiple conditions and logical operators  
+- Built queries using `JOIN`s to combine related tables  
+- Designed subqueries for nested data retrieval  
+- Performed aggregation using `MIN`, `MAX`, `AVG`, `COUNT`, `SUM`  
+- Grouped and sorted data for analysis
+- Ordering and limiting data output
+
+**Artifacts & Evidence:**  
+- [SQL Easy tasks (GitHub)](https://github.com/dudeklukasz/Portfolio/blob/main/doc/SQL%20Practice%20Easy.md)
+- [SQL Medium tasks (GitHub)](https://github.com/dudeklukasz/Portfolio/blob/main/doc/SQL%20Practice%20Medium.md) 
+- [SQL Hard tasks (GitHub)](https://github.com/dudeklukasz/Portfolio/blob/main/doc/SQL%20Practice%20Hard.md)
+
+**Outcomes & Impact:**  
+Demonstrated proficiency in database validation techniques applicable to backend and data integrity testing. Built a strong foundation for applying SQL in QA work (validating UI vs database consistency).  
+<br></br>
 
 
 <h2 id="soft-skills">🕵 Soft skills</h2>
@@ -24,6 +48,7 @@ My goal is to expand my testing knowledge, enhance my technical skills, and secu
 * **Quick learner:** Strong ability to quickly learn new concepts and technologies, as evidenced by the successful completion of my Master's degree in Information Technology.
 * **Teamwork:** Demonstrated strong teamwork skills by collaborating effectively with team leaders and members on various testing cycles on the Test.io platform.
 * **Open-minded:** Embracing new ideas in both my professional career and personal life
+<br></br>
 
 <h2 id="books">📖 Books</h2>
 
@@ -31,7 +56,7 @@ My goal is to expand my testing knowledge, enhance my technical skills, and secu
 * SQL w mgnieniu oka - Ben Forta
 * [Testowanie oprogramowania](https://ksiazka.testowanieoprogramowania.pl) - Piotr Wicherski
 * ABC Testowania oprogramowania - e-book Waldemar Szafraniec, Dorota Gabor
-  
+ <br></br> 
 
 <h2 id="facebook-and-discord-groups">📝 Facebook and Discord groups</h2>
 
@@ -42,6 +67,7 @@ My goal is to expand my testing knowledge, enhance my technical skills, and secu
 * **Discord:**
   * [Team QualityIsland](https://discord.gg/xwSWSwC7) - group led by Tomasz Stelmach
   * [Szkolenie dla QA](https://discord.gg/H9vSawcg) - group led by Adam Gola
+<br></br>
 
 <h2 id="webinars">🎧Webinars</h2>
 
@@ -50,6 +76,7 @@ My goal is to expand my testing knowledge, enhance my technical skills, and secu
 * Testy wydajnościowe – coraz bardziej niezbędna umiejętność testera oprogramowania
 * Czy squmasz SQL? Bazy danych dla testerów oprogramowania
 * Warsztaty "Złap zajawkę na testy"
+<br></br>
 
 <h2 id="recommended-blogs">🖋 Recommended blogs</h2>
 
