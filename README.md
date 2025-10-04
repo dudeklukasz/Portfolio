@@ -65,6 +65,34 @@ Demonstrated proficiency in database validation techniques applicable to backend
 <br></br>
 
 
+<h2 id="skills">👨‍💻 Skills</h2>
+
+* Understanding of fundamental **testing concepts and methodologies**.
+* Ability to perform **REST API** testing using Postman and write assertions with JavaScript.
+* Beginner knowledge of writing tests in **Playwright** using **Typescript**.
+* Ability to write **SQL** queries for data validation.
+* Knowledge of the **ISTQB FL** syllabus.
+* Creating **test scenarios** and **test cases**.
+* **Identifying**, **reporting**, and **tracking** defects using bug tracking tools.
+* Familiarity with various **software development methodologies**.
+  <br></br>
+  
+<h2 id="tools">🛠️ Tools</h2>
+
+* **Postman:** API development and testing platform for creating, sending, and inspecting HTTP/HTTPS requests.
+* **MySQL:** Relational database management system for storing and managing structured data.
+* **Jira:** Project management tool for agile teams, enabling efficient task tracking, issue tracking, and collaboration.
+* **Confluence:** A collaborative workspace for teams to create, share, and organize knowledge in the form of pages and blogs.
+* **Xray:** Test management tool integrated with Jira, for easier test planning, execution, and reporting.
+* **GitHub:** Online platform for version control, collaboration, and code hosting, enabling teams to work together effectively.
+* **Git:** Distributed version control system for tracking changes in source code.
+* **Visual Studio Code:** Code editor with features for debugging, code completion, and integration with various tools and languages.
+* **BrowserStack:** Platform for testing web and mobile applications across a wide range of browsers, devices, and operating systems.
+* **Bug Magnet:** Chrome extension that automates test data generation, saving time and effort during testing.
+* **Chrome DevTools:** Tools built into Google Chrome, providing insights into website performance, debugging, and network activity.
+* **ScreenPal:** Screen recording and video editing tool.
+<br></br>
+
 <h2 id="soft-skills">🕵 Soft skills</h2>
 
 * **Attention to detail:** Found over 80 defects on the Test.io platform, demonstrating my attention to detail and analytical skills.
