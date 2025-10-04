@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/dudekluk/Portfolio/blob/main/img/Logo.png" alt="Image" width="80%" height="80%">
+  <img src="https://github.com/dudeklukasz/Portfolio/blob/main/img/Logo.png" alt="Image" width="80%" height="80%">
 </p>
 
     
@@ -18,6 +18,29 @@ My goal is to expand my testing knowledge, enhance my technical skills, and secu
 
 
 <h2 id="projects">🖥 Projects</h2>
+
+### 🔹 REST API Testing with Postman
+
+**Overview:**  
+Conducted a comprehensive evaluation of several public APIs to verify its functionality, performance, and reliability. Tested multiple endpoints using various HTTP methods to ensure correct behavior under different scenarios.  
+
+**My Role & Scope:**  
+Designed and executed manual and automated API tests in Postman, validated responses, and assessed error handling to identify functional and performance issues.  
+
+**Key Activities:**  
+- Created and managed Postman collections for API endpoints (`GET`, `POST`, `PUT`, `DELETE`)  
+- Verified functional correctness by comparing expected vs. actual responses  
+- Performed performance checks by analyzing response times and identifying potential bottlenecks  
+- Assessed error handling by testing invalid inputs and verifying response codes/messages  
+
+**Artifacts & Evidence:**  
+- [Postman collections and test scripts (GitHub)](https://github.com/dudeklukasz/Postman)  
+
+
+**Outcomes & Impac:**  
+Validated key API workflows and identified inconsistencies in response handling. Improved understanding of API testing best practices and test design.  
+<br></br>
+
 
 ### 🔹 SQL Practice (Easy–Hard Tasks)
 
