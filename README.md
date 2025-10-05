@@ -41,6 +41,39 @@ Designed and executed manual and automated API tests in Postman, validated respo
 Validated key API workflows and identified inconsistencies in response handling. Improved understanding of API testing best practices and test design.  
 <br></br>
 
+### 🔹 E-commerce Manual Testing
+
+**Overview:** 
+
+Conducted a comprehensive manual testing project for an e-commerce web application to ensure functionality, usability, and reliability. Focused on developing and executing structured test documentation, including detailed test plans, scenarios, and cases, using **Jira** and **Xray** for effective test and project management.
+
+**My Role & Scope:**  
+
+Designed and executed manual tests based on prepared test cases and exploratory testing sessions. Validated core functionalities, user flows, and UI/UX consistency to identify defects and improvement opportunities.
+
+**Key Activities:**  
+
+- Created a detailed **test plan** defining scope, objectives, and testing approach
+- Designed over **100 test cases** covering key user journeys and both positive and negative scenarios
+- Executed manual testing sessions supported by exploratory testing for broader coverage
+- Logged and tracked defects in Jira, providing clear reproduction steps and evidence
+- Collaborated with stakeholders to prioritize and communicate findings effectively
+
+**Artifacts & Evidence:**
+- [Test plan (GitHub)](https://github.com/dudeklukasz/chiara-design/blob/main/Test%20Pl.md)
+- [Test report with all defects (GitHub)](https://github.com/dudeklukasz/chiara-design/blob/main/Test%20Raport.md)
+  
+
+**Outcomes & Impac:** 
+
+Identified and reported **20 functional and UI/UX issues**, directly contributing to improved user experience and product stability. Strengthened skills in test design, defect documentation, and structured QA processes.
+<br></br>
+
+
+
+
+
+
 
 ### 🔹 SQL Practice (Easy–Hard Tasks)
 
