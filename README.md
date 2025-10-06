@@ -41,7 +41,7 @@ Designed and executed manual and automated API tests in Postman, validated respo
 Validated key API workflows and identified inconsistencies in response handling. Improved understanding of API testing best practices and test design.  
 <br></br>
 
-### 🔹 E-commerce Manual Testing
+### 🔹 Chiara-design E-commerce Manual Testing
 
 **Overview:** 
 
@@ -69,7 +69,33 @@ Designed and executed manual tests based on prepared test cases and exploratory 
 Identified and reported **20 functional and UI/UX issues**, directly contributing to improved user experience and product stability. Strengthened skills in test design, defect documentation, and structured QA processes.
 <br></br>
 
+### 🔹 ITFlow Exploratory Testing
 
+**Overview:** 
+
+Performed comprehensive **exploratory manual testing** of the ITFlow open-source web application to assess its functionality, user experience, and security. Focused on validating core modules, including login, registration, admin panel, ticketing, and billing, to ensure reliability and a seamless user experience.
+
+**My Role & Scope:**  
+
+Planned and executed exploratory testing sessions to uncover functional and usability issues. Designed structured test documentation to support test coverage and ensure traceability. Actively contributed to identifying, reporting, and analyzing critical bugs that impacted core workflows.
+
+**Key Activities:**  
+
+ - Developed a test plan defining testing scope, objectives, and methodologies
+ - Conducted exploratory manual testing across multiple functional areas
+ - Reported defects with detailed reproduction steps and evidence
+ - Created a test report summarizing findings and recommendations for improvement
+ - Collaborated with the project community to ensure issues were properly addressed and tracked
+
+**Artifacts & Evidence:**
+- [Test plan (GitHub)](https://github.com/dudeklukasz/itflow-exploratory-testing/blob/main/Test%20Plan.md)
+- [Test report with all defects (GitHub)](https://github.com/dudeklukasz/itflow-exploratory-testing/blob/main/Test%20Report.md)
+  
+
+**Outcomes & Impac:** 
+
+Identified and **documented 10 functional** and usability defects, leading to improved system stability and a better user experience. Demonstrated strong analytical skills, attention to detail, and the ability to deliver actionable feedback in an exploratory testing context. All reported issues are currently being reviewed and addressed by the development team.
+<br></br>
 
 
 
