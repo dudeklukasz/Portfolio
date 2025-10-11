@@ -2,8 +2,6 @@
   <img src="https://github.com/dudeklukasz/Portfolio/blob/main/img/Logo.png" alt="Image" width="80%" height="80%">
 </p>
 
-    
-
 <h2 id="about-me">🔎 About me</h2>
 
 Hello, my name is Łukasz Dudek. I am an **IT engineer** with a Master’s degree from the Cracow University of Technology. Driven by my passion for learning and desire to use my educational background, I found my calling in software testing. This profession allows me to **continuously self-develop** and utilize my curious nature to uncover errors and improve software quality.
@@ -19,133 +17,98 @@ My goal is to expand my testing knowledge, enhance my technical skills, and secu
 
 <h2 id="projects">🖥 Projects</h2>
 
-### 🔹 REST API Testing with Postman
+### 🔹 REST API Testing with Postman 
 
-**Overview:**
-
-Conducted a comprehensive evaluation of several public APIs to verify its functionality, performance, and reliability. Tested multiple endpoints using various HTTP methods to ensure correct behavior under different scenarios.  
-
-**My Role & Scope:**
-
-Designed and executed manual and automated API tests in Postman, validated responses, and assessed error handling to identify functional and performance issues.  
-
-**Key Activities:**
-
-- Created and managed Postman collections for API endpoints (`GET`, `POST`, `PUT`, `DELETE`)  
-- Verified functional correctness by comparing expected vs. actual responses  
-- Performed performance checks by analyzing response times and identifying potential bottlenecks  
-- Assessed error handling by testing invalid inputs and verifying response codes/messages  
-
-**Artifacts & Evidence:**   
-- [Postman collections and test scripts (GitHub)](https://github.com/dudeklukasz/Postman)  
-
-
-**Outcomes & Impac:**  
-
-Validated key API workflows and identified inconsistencies in response handling. Improved understanding of API testing best practices and test design.  
++ **Overview:** 
+  + Conducted a comprehensive evaluation of several public APIs to verify its functionality, performance, and reliability. Tested multiple endpoints using various HTTP methods to ensure correct behavior under different scenarios.
++ **My Role & Scope:**
+  + Designed and executed manual and automated API tests in Postman, validated responses, and assessed error handling to identify functional and performance issues.
++ **Key Activities:**
+  + Created and managed Postman collections for API endpoints (`GET`, `POST`, `PUT`, `DELETE`)
+  + Verified functional correctness by comparing expected vs. actual responses
+  + Performed performance checks by analyzing response times and identifying potential bottlenecks
+  +  Assessed error handling by testing invalid inputs and verifying response codes/messages
++ **Artifacts & Evidence:**
+  + [Postman collections and test scripts (GitHub)](https://github.com/dudeklukasz/Postman)  
++ **Outcomes & Impact:**
+  + Validated key API workflows and identified inconsistencies in response handling. Improved understanding of API testing best practices and test design.  
 <br></br>
+ 
 
 ### 🔹 Chiara-design E-commerce Manual Testing
 
-**Overview:** 
-
-Conducted a comprehensive manual testing project for an e-commerce web application to ensure functionality, usability, and reliability. Focused on developing and executing structured test documentation, including detailed test plans, scenarios, and cases, using **Jira** and **Xray** for effective test and project management.
-
-**My Role & Scope:**  
-
-Designed and executed manual tests based on prepared test cases and exploratory testing sessions. Validated core functionalities, user flows, and UI/UX consistency to identify defects and improvement opportunities.
-
-**Key Activities:**  
-
-- Created a detailed **test plan** defining scope, objectives, and testing approach
-- Designed over **100 test cases** covering key user journeys and both positive and negative scenarios
-- Executed manual testing sessions supported by exploratory testing for broader coverage
-- Logged and tracked defects in Jira, providing clear reproduction steps and evidence
-- Collaborated with stakeholders to prioritize and communicate findings effectively
-
-**Artifacts & Evidence:**
-- [Test plan (GitHub)](https://github.com/dudeklukasz/chiara-design/blob/main/Test%20Pl.md)
-- [Test report with all defects (GitHub)](https://github.com/dudeklukasz/chiara-design/blob/main/Test%20Raport.md)
-  
-
-**Outcomes & Impac:** 
-
-Identified and reported **20 functional and UI/UX issues**, directly contributing to improved user experience and product stability. Strengthened skills in test design, defect documentation, and structured QA processes.
++ **Overview:** 
+  + Conducted a comprehensive manual testing project for an e-commerce web application to ensure functionality, usability, and reliability. Focused on developing and executing structured test documentation, including detailed test plans, scenarios, and cases, using **Jira** and **Xray** for effective test and project management.
++ **My Role & Scope:**
+  + Designed and executed manual tests based on prepared test cases and exploratory testing sessions. Validated core functionalities, user flows, and UI/UX consistency to identify defects and improvement opportunities.
++ **Key Activities:**
+  + Created a detailed **test plan** defining scope, objectives, and testing approach
+  + Designed over **100 test cases** covering key user journeys and both positive and negative scenarios
+  + Executed manual testing sessions supported by exploratory testing for broader coverage
+  + Logged and tracked defects in Jira, providing clear reproduction steps and evidence
+  + Collaborated with stakeholders to prioritize and communicate findings effectively
++ **Artifacts & Evidence:**
+  + [Test plan (GitHub)](https://github.com/dudeklukasz/chiara-design/blob/main/Test%20Pl.md)
+  + [Test report with all defects (GitHub)](https://github.com/dudeklukasz/chiara-design/blob/main/Test%20Raport.md)
++ **Outcomes & Impact:**
+  + Identified and reported **20 functional and UI/UX issues**, directly contributing to improved user experience and product stability. Strengthened skills in test design, defect documentation, and structured QA processes.
 <br></br>
+
 
 ### 🔹 ITFlow Exploratory Testing
 
-**Overview:**  
-Performed comprehensive **exploratory manual testing** of the ITFlow open-source web application to assess its functionality, user experience, and security. Focused on validating core modules, including login, registration, admin panel, ticketing, and billing, to ensure reliability and a seamless user experience.
-
-**My Role & Scope:**  
-
-Planned and executed exploratory testing sessions to uncover functional and usability issues. Designed structured test documentation to support test coverage and ensure traceability. Actively contributed to identifying, reporting, and analyzing critical bugs that impacted core workflows.
-
-**Key Activities:**  
-
- - Developed a test plan defining testing scope, objectives, and methodologies
- - Conducted exploratory manual testing across multiple functional areas
- - Reported defects with detailed reproduction steps and evidence
- - Created a test report summarizing findings and recommendations for improvement
- - Collaborated with the project community to ensure issues were properly addressed and tracked
-
-**Artifacts & Evidence:**
-- [Test plan (GitHub)](https://github.com/dudeklukasz/itflow-exploratory-testing/blob/main/Test%20Plan.md)
-- [Test report with all defects (GitHub)](https://github.com/dudeklukasz/itflow-exploratory-testing/blob/main/Test%20Report.md)
-  
-
-**Outcomes & Impac:** 
-
-Identified and **documented 10 functional** and usability defects, leading to improved system stability and a better user experience. Demonstrated strong analytical skills, attention to detail, and the ability to deliver actionable feedback in an exploratory testing context. All reported issues are currently being reviewed and addressed by the development team.
++ **Overview:** 
+  + Performed comprehensive **exploratory manual testing** of the ITFlow open-source web application to assess its functionality, user experience, and security. Focused on validating core modules, including login, registration, admin panel, ticketing, and billing, to ensure reliability and a seamless user experience.
++ **My Role & Scope:**
+  + Planned and executed exploratory testing sessions to uncover functional and usability issues. Designed structured test documentation to support test coverage and ensure traceability. Actively contributed to identifying, reporting, and analyzing critical bugs that impacted core workflows.
++ **Key Activities:**
+  + Developed a test plan defining testing scope, objectives, and methodologies
+  + Conducted exploratory manual testing across multiple functional areas
+  + Reported defects with detailed reproduction steps and evidence
+  + Created a test report summarizing findings and recommendations for improvement
+  + Collaborated with the project community to ensure issues were properly addressed and tracked
++ **Artifacts & Evidence:**
+  + [Test plan (GitHub)](https://github.com/dudeklukasz/itflow-exploratory-testing/blob/main/Test%20Plan.md)
+  + [Test report with all defects (GitHub)](https://github.com/dudeklukasz/itflow-exploratory-testing/blob/main/Test%20Report.md)
++ **Outcomes & Impact:**
+  + Identified and **documented 10 functional** and usability defects, leading to improved system stability and a better user experience. Demonstrated strong analytical skills, attention to detail, and the ability to deliver actionable feedback in an exploratory testing context. All reported issues are currently being reviewed and addressed by the development team.
 <br></br>
 
 ### 🔹 Accessibility WCAG Audit for DoliBarr
 
-**Overview:**
-
-Conducted a comprehensive accessibility audit of the DoliBarr ERP web application to assess compliance with the **Web Content Accessibility Guidelines (WCAG) 2.2**. The project focused on identifying accessibility barriers that may prevent users particularly those with disabilities from effectively navigating and interacting with the platform.
-
-**My Role & Scope:**  
-Executed accessibility evaluations across multiple user workflows, focusing on keyboard navigation, screen reader compatibility, and visual contrast. Documented findings in structured reports and provided practical recommendations to enhance overall accessibility and usability.
-
-
-**Key Activities:**  
- - Conducted manual accessibility tests following WCAG 2.2 criteria level A and AA.
- - Evaluated keyboard navigation, ARIA labels, and color contrast for compliance
- - Assessed screen reader compatibility using NVDA
- - Documented 26 significant accessibility issues with clear descriptions, severity, and remediation suggestions
- - Provided actionable recommendations to improve user inclusivity and compliance
-
-
-**Artifacts & Evidence:**
-- [WCAG Audit (GitHub)](https://github.com/dudeklukasz/WCAG)
-
-
-**Outcomes & Impac:** 
-Identified **26 accessibility issues** impacting user interaction and compliance with WCAG 2.2 standards. Implementing the recommended improvements will enhance inclusivity, ensure regulatory compliance, and deliver a more accessible and user-friendly experience for all users. Strengthened skills in accessibility testing, WCAG compliance analysis, and usability improvement.
-
++ **Overview:** 
+  + Conducted a comprehensive accessibility audit of the DoliBarr ERP web application to assess compliance with the **Web Content Accessibility Guidelines (WCAG) 2.2**. The project focused on identifying accessibility barriers that may prevent users particularly those with disabilities from effectively navigating and interacting with the platform.
++ **My Role & Scope:**
+  + Executed accessibility evaluations across multiple user workflows, focusing on keyboard navigation, screen reader compatibility, and visual contrast. Documented findings in structured reports and provided practical recommendations to enhance overall accessibility and usability.
++ **Key Activities:**
+  + Conducted manual accessibility tests following WCAG 2.2 criteria level A and AA.
+  + Evaluated keyboard navigation, ARIA labels, and color contrast for compliance
+  + Assessed screen reader compatibility using NVDA
+  + Documented 26 significant accessibility issues with clear descriptions, severity, and remediation suggestions
+  + Provided actionable recommendations to improve user inclusivity and compliance
++ **Artifacts & Evidence:**
+  + [WCAG Audit (GitHub)](https://github.com/dudeklukasz/WCAG)
++ **Outcomes & Impact:**
+  + Identified **26 accessibility issues** impacting user interaction and compliance with WCAG 2.2 standards. Implementing the recommended improvements will enhance inclusivity, ensure regulatory compliance, and deliver a more accessible and user-friendly experience for all users. Strengthened skills in accessibility testing, WCAG compliance analysis, and usability improvement.
 <br></br>
+
 ### 🔹 SQL Practice (Easy–Hard Tasks)
 
-**Overview:**  
-As part of strengthening my backend testing skills, I completed a series of SQL tasks on SQL Practice, ranging from beginner to advanced difficulty. These exercises allowed me to work hands-on with real-world scenarios such as filtering large datasets, combining information from multiple tables, and writing queries to validate date.
-
-**Key Activities:**  
-- Applied filtering with multiple conditions and logical operators  
-- Built queries using `JOIN`s to combine related tables  
-- Designed subqueries for nested data retrieval  
-- Performed aggregation using `MIN`, `MAX`, `AVG`, `COUNT`, `SUM`  
-- Grouped and sorted data for analysis
-- Ordering and limiting data output
-
-**Artifacts & Evidence:**  
-- [SQL Easy tasks (GitHub)](https://github.com/dudeklukasz/Portfolio/blob/main/doc/SQL%20Practice%20Easy.md)
-- [SQL Medium tasks (GitHub)](https://github.com/dudeklukasz/Portfolio/blob/main/doc/SQL%20Practice%20Medium.md) 
-- [SQL Hard tasks (GitHub)](https://github.com/dudeklukasz/Portfolio/blob/main/doc/SQL%20Practice%20Hard.md)
-
-**Outcomes & Impact:**  
-Demonstrated proficiency in database validation techniques applicable to backend and data integrity testing. Built a strong foundation for applying SQL in QA work (validating UI vs database consistency).  
++ **Overview:** 
+  + As part of strengthening my backend testing skills, I completed a series of SQL tasks on SQL Practice, ranging from beginner to advanced difficulty. These exercises allowed me to work hands-on with real-world scenarios such as filtering large datasets, combining information from multiple tables, and writing queries to validate date.
++ **Key Activities:**
+  + Applied filtering with multiple conditions and logical operators  
+  + Built queries using `JOIN`s to combine related tables  
+  + Designed subqueries for nested data retrieval  
+  + Performed aggregation using `MIN`, `MAX`, `AVG`, `COUNT`, `SUM`  
+  + Grouped and sorted data for analysis
+  + Ordering and limiting data output
++ **Artifacts & Evidence:**
+  + [SQL Easy tasks (GitHub)](https://github.com/dudeklukasz/Portfolio/blob/main/doc/SQL%20Practice%20Easy.md)
+  + [SQL Medium tasks (GitHub)](https://github.com/dudeklukasz/Portfolio/blob/main/doc/SQL%20Practice%20Medium.md)
+  + [SQL Hard tasks (GitHub)](https://github.com/dudeklukasz/Portfolio/blob/main/doc/SQL%20Practice%20Hard.md)
++ **Outcomes & Impact:**
+  + Demonstrated proficiency in database validation techniques applicable to backend and data integrity testing. Built a strong foundation for applying SQL in QA work (validating UI vs database consistency).  
 <br></br>
 
 
