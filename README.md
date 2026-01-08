@@ -111,6 +111,24 @@ My goal is to expand my testing knowledge, enhance my technical skills, and secu
   + Demonstrated proficiency in database validation techniques applicable to backend and data integrity testing. Built a strong foundation for applying SQL in QA work (validating UI vs database consistency).  
 <br></br>
 
+### 🔹 Automation E2E Testing with Playwright & TypeScript
+
++ **Overview:** 
+  + Implemented End-to-End (E2E) automated testing for a fictional DemoBank web application to validate critical user workflows and ensure application stability. The project focused on verifying core banking functionalities such as authentication, money transfers, report generation, and other essential features.
++ **My Role & Scope:**
+  + Designed and developed automated E2E tests using **Playwright and TypeScript**, ensuring coverage of key user stories and applying best practices to ensure test maintainability.
++ **Key Activities:**
+  + Implemented automated E2E test cases simulating real user interactions
+  + Verified core functionalities including login, bank transfers, and report generation
+  + Applied the **Page Object Model (POM)** design pattern to enhance scalability and maintainability
+  + Structured test cases using the **Arrange, Act, Assert (AAA)** pattern for clarity and consistency
+  + Utilized VS Code with tools such as Prettier and ESLint to improve code quality
++ **Artifacts & Evidence:**
+  + [Playwright E2E testing framework(GitHub)](https://github.com/dudeklukasz/Playwright)  
++ **Outcomes & Impact:**
+  + Strengthened practical experience with Playwright, TypeScript, and modern test automation architecture
+  + Established a scalable and maintainable E2E testing framework aligned with industry best practices
+<br></br>
 
 <h2 id="skills">👨‍💻 Skills</h2>
 
